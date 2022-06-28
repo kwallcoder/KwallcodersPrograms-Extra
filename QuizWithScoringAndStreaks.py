@@ -52,4 +52,4 @@ asked_Question = "Is Kwallcoder a bad gaming channel?"
 answer = "No"
 quiz_Question(asked_Question, answer)
 
-print("You got",count_Right,"questions correct,",count_Wrong,"questions wrong, and your best streak was", best_Streak,".")
+print("You got",count_Right,"questions correct,",count_Wrong,"questions wrong, and your best streak was", best_Streak,".") 
